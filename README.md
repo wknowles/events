@@ -1,3 +1,5 @@
-# Perhaps I would like to work on these at some point
+# Projects
 
-1. Improve -- http://www3.septa.org/hackathon/SystemMap/ with something made in d3.js perhaps
+A list of things to make / do / learn on - for personal reference and development.
+
+- [] Make something similar to [Septa System Map](http://www3.septa.org/hackathon/SystemMap/), perhaps with d3.js and have it update in realtime.

@@ -1,5 +1,3 @@
-## Hackathons / Meetups / Community involvement
-
 **Log of events I attended. What did I learn? How did I contribute.**
 
 Date       | Event    | Thoughts

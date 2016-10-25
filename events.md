@@ -1,7 +1,7 @@
 **Log of events I attended. What did I learn? How did I contribute.**
 
-Date       | Event    | Thoughts
-:---       | ---      | ---
+| Date       | Event    | Thoughts |
+| :---       | ---      | ---      |
 2016-10-10 | [Geodesign Forum @ PhilaU](http://www.philau.edu/geodesignforum/) | An afternoon of talks on the use of Geodesign in planning healthier communities. I had not come across geodesign before. An interesting interdisciplinary approach. I wasn't totally convinced on the merits of this as opposed to traditional planning or gis.
 2016-10-06 | [2016 Geo Open Source Meetup presented by LocationTech & GeoPhilly](https://www.meetup.com/GeoPhilly/events/233258131/) | Great evening learning about open source contributions to geospatial stuff. Highlights were Carto and Cesium - tracking Santa with Norad. Had to leave early for train, sad to miss Mapzen.
 2016-10-05 | [Building Set-top-box Apps using AngularJS](https://www.meetup.com/Bucks-Co-Js/events/233911859/) @ BucksCoJS | A talk mostly about building set-top-box apps, not really about angular. Focus more on ux considerations and platform specifics - xbox / playstation requirements ect...
